@@ -14,3 +14,19 @@ console.log(typeof s)
 console.log(typeof b)
 console.log(typeof undefined)
 console.log(typeof null)
+
+// reference (non premitive)
+
+//Array,Objects,Functions
+const heros=["shakti","nagraj"]
+
+//objects
+let mtobj={
+    name:"nk",
+    age:22,
+}
+//function
+var kick=function()
+{
+    console.log("hello");
+} 
